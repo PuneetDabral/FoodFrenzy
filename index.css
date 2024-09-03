@@ -40,3 +40,36 @@
   border: 1px solid black;
   cursor: pointer;
 }
+
+.filter-btn {
+  padding: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.shimmer-card {
+  width: 200px;
+  height: 450px;
+  background-color: #f0f0f0;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+.login-btn {
+  padding: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.user-Card {
+  padding: 10px;
+  border: 1px solid black;
+}
